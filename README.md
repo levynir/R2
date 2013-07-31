@@ -1,5 +1,5 @@
 [![build status](https://secure.travis-ci.org/ded/R2.png)](http://travis-ci.org/ded/R2)
-R2
+R2 - patch branch, use original from https://github.com/ded/R2/ and not this branch
 ---
 R2 helps you achieve cross-language layout-friendly websites (including bi-directional text). It looks like this:
 
